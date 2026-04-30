@@ -42,7 +42,7 @@ Face_to_emojii/
 Install dependencies:
 
 ```bash
-pip install streamlit deepface opencv-python-headless numpy tf-keras
+pip install -r requirements.txt
 ```
 
 > DeepFace will auto-download the model weights on first run.
